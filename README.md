@@ -1,7 +1,3 @@
-Tabii! İşte kodun ve paylaştığın görsele göre kapsamlı ve hazır bir README.md:
-
----
-
 # YOLOv8-Seg vs Mask R-CNN: Instance & Semantic Segmentation Comparison
 
 A hands-on comparison between YOLOv8-Seg and Mask R-CNN for object segmentation tasks. This repository explores instance and (pseudo) semantic segmentation using the two state-of-the-art models, visualizing and comparing their prediction results on the same image.
