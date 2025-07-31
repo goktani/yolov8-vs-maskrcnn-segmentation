@@ -66,7 +66,7 @@ You can run both models on the same image and compare:
 
 Below is an example output comparing YOLOv8-Seg and Mask R-CNN, both on instance and semantic segmentation tasks:
 
-![Sample Output](output_image.png)
+![Sample Output](output.png)
 
 ---
 
