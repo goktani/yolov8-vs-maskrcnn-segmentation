@@ -30,7 +30,7 @@ You can run both models on the same image and compare:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/yolov8-vs-maskrcnn-segmentation.git
+    git clone https://github.com/goktani/yolov8-vs-maskrcnn-segmentation.git
     cd yolov8-vs-maskrcnn-segmentation
     ```
 
